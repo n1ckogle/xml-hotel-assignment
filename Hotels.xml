@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/n1ckogle/xml-hotel-assignment/refs/heads/main/Hotels.xsd">
+
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Hampton Inn</Name>
+    <Phone>833-372-2654</Phone>
+    <Address NearestAirport="McCarran International Airport">
+      <Number>245</Number>
+      <Street>London Bridge Rd</Street>
+      <City>Lake Havasu City</City>
+      <State>AZ</State>
+      <Zip>86403</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Hyatt Place</Name>
+    <Phone>602-388-8888</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>150</Number>
+      <Street>W Adams St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85003</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Moxy</Name>
+    <Phone>623-291-1200</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>116</Number>
+      <Street>S Central Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.2">
+    <Name>Casa Blanca</Name>
+    <Phone>480-278-2486</Phone>
+    <Address NearestAirport="Mesa Gateway">
+      <Number>695</Number>
+      <Street>N Arizona Ave</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85225</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Residence Inn</Name>
+    <Phone>480-967-2300</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>510</Number>
+      <Street>S Forest Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.7">
+    <Name>Omni Scottsdale Resort</Name>
+    <Phone>480-627-3200</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>4949</Number>
+      <Street>E Lincoln Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Red Roof Inn</Name>
+    <Phone>602-325-9216</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>5215</Number>
+      <Street>W Willetta St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85043</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>Marriott</Name>
+    <Phone>602-273-7373</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1101</Number>
+      <Street>N 44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Surestay</Name>
+    <Phone>602-273-1601</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>3037</Number>
+      <Street>E Van Buren St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.8">
+    <Name>Sonesta Simply Suites</Name>
+    <Phone>480-777-0440</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1335</Number>
+      <Street>W Baseline Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
